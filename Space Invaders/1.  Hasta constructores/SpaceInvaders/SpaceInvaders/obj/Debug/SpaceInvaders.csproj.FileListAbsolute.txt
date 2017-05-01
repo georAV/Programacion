@@ -1,0 +1,6 @@
+D:\DAW\Programación\NachoCabanes\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+D:\DAW\Programación\NachoCabanes\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+D:\DAW\Programación\NachoCabanes\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+D:\DAW\Programación\NachoCabanes\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+D:\DAW\Programación\NachoCabanes\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+D:\DAW\Programación\NachoCabanes\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb

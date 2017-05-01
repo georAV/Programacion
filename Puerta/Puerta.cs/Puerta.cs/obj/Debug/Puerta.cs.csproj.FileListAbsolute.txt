@@ -1,0 +1,6 @@
+D:\DAW\Programación\Puerta\Puerta.cs\Puerta.cs\bin\Debug\Puerta.cs.exe.config
+D:\DAW\Programación\Puerta\Puerta.cs\Puerta.cs\bin\Debug\Puerta.cs.exe
+D:\DAW\Programación\Puerta\Puerta.cs\Puerta.cs\bin\Debug\Puerta.cs.pdb
+D:\DAW\Programación\Puerta\Puerta.cs\Puerta.cs\obj\Debug\Puerta.cs.csprojResolveAssemblyReference.cache
+D:\DAW\Programación\Puerta\Puerta.cs\Puerta.cs\obj\Debug\Puerta.cs.exe
+D:\DAW\Programación\Puerta\Puerta.cs\Puerta.cs\obj\Debug\Puerta.cs.pdb
